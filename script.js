@@ -1,3 +1,6 @@
+/*
+   @https://github.com/jakemadness/shorten-long-numbers
+*/
 var shortenNumber = function(number, places, force) {
    var suffix = '';
    if ( number >= 1e15 ) {
