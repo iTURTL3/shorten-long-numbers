@@ -12,3 +12,5 @@ shortenNumber(1400000, 2, true);// 1.40M
 shortenNumber(1000000, 2, false);// 1M
 shortenNumber(1400000, 2, false);// 1.4M
 ```
+
+JSFiddle example: https://jsfiddle.net/ijake/sdv72gwk/
