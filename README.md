@@ -1,5 +1,5 @@
 # Shorten Long Numbers
-Shorten Long Numbers (Q,B,M,K) with JavaScript
+Shorten Long Numbers (Q,T,B,M,K) with JavaScript
 
 ## Examples
 **2 decimal places max, force decimal places even when the number is round**
