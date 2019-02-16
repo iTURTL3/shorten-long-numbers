@@ -1,5 +1,5 @@
 # Shorten Long Numbers
-Shorten Long Numbers (Q,T,B,M,K) with JavaScript
+Shorten Long Numbers (Q,T,B,M,K) in JavaScript.
 
 ## Examples
 **2 decimal places max, force decimal places even when the number is round**
@@ -13,4 +13,4 @@ shortenNumber(1000000, 2, false);// 1M
 shortenNumber(1400000, 2, false);// 1.4M
 ```
 
-JSFiddle example: https://jsfiddle.net/ijake/sdv72gwk/
+JSFiddle example: https://jsfiddle.net/ijake/sdv72gwk/1/
